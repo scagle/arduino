@@ -1,7 +1,6 @@
 # KnockLock
 
-* [Youtube Link]()
+* [Video on Youtube](https://youtu.be/EutBgTU2BIY)
 
 ## Credits
-* Source Code From: Steve Hoefer http://grathio.com
-
+* Source Code from: Steve Hoefer http://grathio.com
